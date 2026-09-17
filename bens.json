@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item": "Armário de duas portas",
+        "local": "Sala de Aula 09",
+        "data": "2026-09-17",
+        "valor": 600,
+        "patrimonio": "PT123"
+    },
+    {
+        "id": 2,
+        "item": "Notebook",
+        "local": "Sala de Aula 09",
+        "data": "2026-09-17",
+        "valor": 8000,
+        "patrimonio": "PT049"
+    },
+    {
+        "id": 3,
+        "item": "Cadeira de Aluno",
+        "local": "Sala de Aula 09",
+        "data": "2026-09-17",
+        "valor": 100,
+        "patrimonio": "PT392"
+    }
+]
